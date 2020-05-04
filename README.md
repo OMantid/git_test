@@ -1,0 +1,1 @@
+This is OMantid's first git project!
